@@ -26,6 +26,13 @@ pnpm add -D eslint @junaya/eslint-config
 }
 ```
 
+or config `package.json -> eslintConfig`
+```
+"eslintConfig": {
+  "extends": "@junaya"
+}
+```
+
 > You don't need `.eslintignore` normally as it has been provided by the preset.
 
 ### Add script for package.json
