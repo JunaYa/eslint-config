@@ -3,7 +3,7 @@
 
 [![npm](https://img.shields.io/npm/v/@junaya/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@junaya/eslint-config)
 
-- Single quotes, no semi
+- Single quotes, semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
 - TypeScript, Vue, React out-of-box
 - Lint also for json, yaml, markdown
