@@ -1,6 +1,6 @@
 {
   "name": "@junaya/eslint-config-monorepo",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "author": "JunaYa <ayac3j@gmail.com> (https://github.com/junaya/)",
