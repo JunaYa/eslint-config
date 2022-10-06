@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-junaya",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "license": "MIT",
   "homepage": "https://github.com/junaya/eslint-config",
   "main": "./dist/index.cjs",
